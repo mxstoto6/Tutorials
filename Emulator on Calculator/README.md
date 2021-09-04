@@ -53,3 +53,20 @@ Voici les touches :
 `+` : monter le son
 
 `-` : baisser le son
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Je vous ai fourni quelques jeux, mais si vous voulez les votres voici comment faire :
+
+- Rendez vous sur un site de téléchargement de ROMs (trouvez vous-même).
+- Ensuite, allez sur https://bit.ly/38IqLTi. Vous pourrez y convertir vos ROMs pour la calculatrice (la création d'un compte est malheureusement requise).
+
+- Puis comme ci-dessus, placez vos jeux àla racive de la calculatrice, accompagnés de l'émulateur (`prizoop`).
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Voici la fin de ce tutoriel. Pour tout problème, contactez-moi via discord : `mxstoto#1405`.
