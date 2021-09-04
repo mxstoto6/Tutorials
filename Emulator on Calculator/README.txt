@@ -1,0 +1,1 @@
+Placer ces fichiers à la racine de la calculatrice.
