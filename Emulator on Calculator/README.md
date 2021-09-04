@@ -41,9 +41,10 @@ Voici les touches :
 `F5` : select
 
 
+
 `menu` : réglages
 
-`menu``menu` : quitter
+`menu`+`menu` : quitter
 
 `×` : save state
 
