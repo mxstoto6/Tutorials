@@ -1,12 +1,18 @@
 Tutoriel pour jouer à des jeux GB, GBA, SMS, etc... (voir liste ci-jointe).
 
+
 Attention cependant, les ROMs jouables **dépendent du modèle de calculatrice**, et les techniques également.
+
 Ce tutoriel ne concerne que les `Casio Graph 35+E` / `35+USB` / `Graph 90+E`.
+
 Pour les autres modèles, ou des calculatrices **TexasInstruments**, veuillez vous réferrer à https://tiplanet.org/forum/viewtopic.php?f=31&t=21003&p=226524.
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+
 Sur ce, commençons le tuto :
+
 
 - Télécharger le dossier contenant ce README (cliquer sur "Code" en haut, et cliquer sur "Download Zip").
 - L'extraire sur votre bureau, ou ailleurs.
@@ -18,19 +24,31 @@ Sur ce, commençons le tuto :
 - Débrancher la calculatrice, et sur cette dernière, accéder à l'émulateur, `prizoop`.
 - Ici, sélectionner le jeu que vous voulez, et le lancer via `F6`+`exe`.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Voici les touches :
 
 `↕↔` : flèches
+
 `shift` : A
+
 `optn` : B
+
 `F6` : start
+
 `F5` : select
 
+
 `menu` : réglages
+
 `menu``menu` : quitter
+
 `×` : save state
+
 `÷` : load state
+
 `+` : monter le son
+
 `-` : baisser le son
