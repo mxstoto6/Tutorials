@@ -15,7 +15,7 @@ Pour les autres modèles, ou des calculatrices **TexasInstruments**, veuillez vo
 Sur ce, commençons le tuto :
 
 
-- Télécharger le dossier contenant les fichiers nécéssaires ([Files.zip](https://github.com/mxstoto6/Tutorials/files/7110138/Files.zip)).
+- Télécharger le dossier contenant les fichiers nécéssaires : **[Files.zip](https://github.com/mxstoto6/Tutorials/files/7110138/Files.zip)**.
 - L'extraire sur votre bureau, ou ailleurs.
 
 - Brancher la calculatrice avec le cable USB fourni.
