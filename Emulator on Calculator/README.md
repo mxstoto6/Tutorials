@@ -6,7 +6,7 @@ Tutoriel pour jouer à des jeux GB, GBA, SMS, etc...
 
 Attention cependant, les ROMs jouables **dépendent du modèle de calculatrice**, et les techniques également.
 
-Ce tutoriel ne concerne que les `Casio Graph 35+E` / `35+USB` / `Graph 90+E`.
+Ce tutoriel ne concerne que les Casio `Graph 35+E` / `Graph 35+USB` / `Graph 90+E`.
 
 Pour les autres modèles, ou des calculatrices **TexasInstruments**, veuillez vous réferrer à https://bit.ly/3zKjEWv.
 
