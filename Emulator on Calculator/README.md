@@ -20,7 +20,7 @@ Sur ce, commençons le tuto :
 
 - Brancher la calculatrice avec le cable USB fourni.
 - Sur le PC, accéder à l'explorateur de fichiers, et ouvrez la calculatrice, alors reconnue comme un disque USB.
-- Placer les fichiers que je vous ai fait télécharger à la **racine** de la calculatrice.
+- Placer les fichiers que je vous ai fait télécharger à la **racine** de la calculatrice (ceux contenus dans `Files`).
 
 - Débrancher la calculatrice, et sur cette dernière, accéder à l'émulateur, `prizoop`.
 - Ici, sélectionner le jeu que vous voulez, et le lancer via `F6`+`exe`.
