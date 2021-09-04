@@ -1,6 +1,8 @@
-Tutoriel pour jouer à des jeux GB, GBA, SMS, etc... (voir liste ci-jointe).
+Tutoriel pour jouer à des jeux GB, GBA, SMS, etc...
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 Attention cependant, les ROMs jouables **dépendent du modèle de calculatrice**, et les techniques également.
 
