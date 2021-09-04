@@ -65,7 +65,7 @@ Je vous ai fourni quelques jeux, mais si vous voulez les votres voici comment fa
 - Rendez vous sur un site de téléchargement de ROMs (trouvez vous-même).
 - Ensuite, allez sur https://bit.ly/38IqLTi. Vous pourrez y convertir vos ROMs pour la calculatrice (la création d'un compte est malheureusement requise).
 
-- Puis comme ci-dessus, placez vos jeux àla racive de la calculatrice, accompagnés de l'émulateur (`prizoop`).
+- Puis comme ci-dessus, placez vos jeux à la racive de la calculatrice, accompagnés de l'émulateur (`prizoop`).
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
