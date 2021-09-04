@@ -1,12 +1,12 @@
 Tutoriel pour jouer à des jeux GB, GBA, SMS, etc... (voir liste ci-jointe).
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Attention cependant, les ROMs jouables **dépendent du modèle de calculatrice**, et les techniques également.
 
 Ce tutoriel ne concerne que les `Casio Graph 35+E` / `35+USB` / `Graph 90+E`.
 
-Pour les autres modèles, ou des calculatrices **TexasInstruments**, veuillez vous réferrer à 
-https://tiplanet.org/forum/viewtopic.php?f=31&t=21003&p=226524.
+Pour les autres modèles, ou des calculatrices **TexasInstruments**, veuillez vous réferrer à https://bit.ly/3zKjEWv.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
